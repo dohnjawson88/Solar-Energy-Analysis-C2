@@ -1,1 +1,1 @@
-# Solar-Energy-Plant-Inverter-Fault-and-Failure-Prediction-C2-
+# Solar Energy analysis for feature impact on DC generation and inverter failure.
